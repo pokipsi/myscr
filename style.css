@@ -1,0 +1,30 @@
+.init {
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    align-items: center;
+}
+
+.init input {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.game {
+    display: none;
+}
+
+.score {
+    font-size: 3rem;
+    width: 100%;
+    text-align: center;
+}
+
+.results {
+    padding: 8px;
+    width: 100%;
+}
+
+table tr td {
+    width: 50%;
+}
